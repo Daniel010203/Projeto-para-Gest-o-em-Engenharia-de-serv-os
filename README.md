@@ -1,4 +1,4 @@
-# 🏗️ Sistema de Gestão em Engenharia de Serviços
+# 🏗️ Sistema de Gestão em Engenharia de Serviços - Em desenvolvimento.
 
 > Aplicação desenvolvida para apoiar o gerenciamento de serviços de engenharia, permitindo controlar demandas, acompanhar atividades, organizar informações e otimizar a gestão operacional por meio de uma plataforma centralizada.
 
